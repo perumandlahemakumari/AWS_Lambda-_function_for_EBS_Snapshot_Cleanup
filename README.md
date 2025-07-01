@@ -88,7 +88,7 @@ If you want to automate deployment via GitHub:
 
 ---
 
-## 📒 Notes from Setup (Based on Handwritten Workflow)
+## 📒 Notes from Setup
 
 - Use `describe snapshots`, `describe volumes`, `describe instances` via Boto3
 - Test code from GitHub directly
