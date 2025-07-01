@@ -29,7 +29,7 @@ This project contains a Python 3.13 AWS Lambda function that automatically **del
 
 ### 2. **Add Code**
 
-- Copy the Python code from [`lambda_function.py`](./lambda_function.py) or paste into the inline Lambda editor.
+- Copy the Python code from [`lambda_function.py`](./lambda_function.py)
 
 ---
 
